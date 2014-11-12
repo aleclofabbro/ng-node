@@ -1,0 +1,38 @@
+{
+  "name": "ng-system",
+  "version": "0.1.0-pre.1",
+  "description": "AngularJs as server framework",
+  "keywords": [
+    "jsdom",
+    "angularjs"
+  ],
+  "maintainers": [{
+    "name": "Alessandro Giansanti",
+    "email": "alessandro.giansanti@gmail.com",
+    "url": "http://github.com/aleclofabbro/"
+  }],
+  "contributors": [],
+  "bugs": {
+    "url": "http://github.com/aleclofabbro/ng-system/issues",
+    "email": "alessandro.giansanti@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://github.com/aleclofabbro/ng-system"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aleclofabbro/ng-system.git"
+  },
+  "dependencies": {
+    "jsdom": "1.x"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "main": "./lib/boot",
+  "readme": "",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/aleclofabbro/ng-system",
+  "_id": "ng-system@0.1.0-pre.1",
+  "dist": {}
+}
