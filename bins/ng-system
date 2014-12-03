@@ -1,0 +1,2 @@
+#!/bin/sh
+node /home/alec/github/ng-system "$@"
