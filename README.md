@@ -10,3 +10,4 @@ test:
 
     node start
 
+tested only on node v0.10.34 @ ubuntu 14.04
