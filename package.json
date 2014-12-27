@@ -25,7 +25,9 @@
     "url": "git://github.com/aleclofabbro/ng-system.git"
   },
   "dependencies": {
-    "jsdom": "1.x"
+    "cli": "*",
+    "jsdom": "1.x",
+    "glob": "*"
   },
   "devDependencies": {},
   "scripts": {},
