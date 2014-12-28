@@ -1,8 +1,7 @@
-module.exports = function(angular, bootstrap) {
-  angular.module('test', ['ng-system', 'test-dep'])
+module.exports = function(angular) {
+  angular.module('test', ['test-dep'])
     .run(function() {
       console.log('I\'m test !!!!');
     });
   require('./test_dep')(angular);
-  // bootstrap(['test']);
 };
