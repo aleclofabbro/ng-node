@@ -1,7 +1,7 @@
 ng-system
 =========
 
-Use [AngularJs](https://angularjs.org/), your favourite browser framework to build a complete MEAN stack application.  
+Use [AngularJs](https://angularjs.org/), your favourite browser framework to build a complete (ME)AN stack application.  
 
 starting up ... all TBD ...  
 test: 
