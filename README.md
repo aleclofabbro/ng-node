@@ -1,7 +1,7 @@
 ng-system
 =========
 
-Use [AngularJs](https://angularjs.org/), your favourite browser framework to build a complete (ME)AN stack application.  
+Run [AngularJs](https://angularjs.org/) on Front-End and Back-End as well to build a complete (ME)AN stack application.  
 
 starting up ... all TBD ...  
 test: 
