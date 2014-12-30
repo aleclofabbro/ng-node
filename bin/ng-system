@@ -1,2 +1,2 @@
 #!/bin/sh
-node /home/alec/github/ng-system/lib/cli "$@"
+node /home/alec/github/ng-system/cli "$@"
