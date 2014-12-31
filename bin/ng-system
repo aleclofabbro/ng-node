@@ -1,2 +1,5 @@
-#!/bin/sh
-node /home/alec/github/ng-system/cli "$@"
+#!/bin/bash
+array=( $@ )
+len=${#array[@]}
+_args=${array[@]:1:$len}
+node /home/alec/github/ng-system/cli/$1 $_args 

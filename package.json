@@ -25,13 +25,16 @@
     "url": "git://github.com/aleclofabbro/ng-system.git"
   },
   "dependencies": {
+    "grunt": "*",
     "cli": "*",
     "jsdom": "1.x",
     "glob": "*"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt-angular-builder": "^1.0.0-beta2"
+  },
   "scripts": {},
-  "main": "./lib/boot",
+  "main": "./lib/ng-system",
   "readme": "",
   "readmeFilename": "README.md",
   "homepage": "https://github.com/aleclofabbro/ng-system",
