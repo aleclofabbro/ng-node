@@ -4,7 +4,8 @@ ng-system
 Run [AngularJs](https://angularjs.org/) on Front-End and Back-End as well to build a complete (ME)AN stack application.  
 Extending the concept of `angular.module` to a complete server/client module.
 
-install dependencies
+install dependencies  
+
     npm install --save-dev
 
 test: 
