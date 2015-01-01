@@ -6,7 +6,7 @@ Extending the concept of `angular.module` to a complete server/client module.
 
 install 
 
-    npm install ng-system --save-dev
+    npm install ng-system
 
 test: 
 
