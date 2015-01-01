@@ -1,6 +1,6 @@
 {
   "name": "ng-system",
-  "version": "0.0.1-pre.1",
+  "version": "0.0.1alpha",
   "description": "AngularJs as server framework",
   "author": "Alessandro Giansanti",
   "license": "GPL v3",
@@ -37,6 +37,6 @@
   "main": "./lib/ng-system",
   "readmeFilename": "README.md",
   "homepage": "https://github.com/aleclofabbro/ng-system",
-  "_id": "ng-system@0.0.1-pre.1",
+  "_id": "ng-system@0.0.1alpha",
   "dist": {}
 }
