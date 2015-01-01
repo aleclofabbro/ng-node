@@ -1,28 +1,28 @@
 {
   "name": "ng-system",
-  "version": "0.1.0-pre.1",
+  "version": "0.0.1-pre.1",
   "description": "AngularJs as server framework",
+  "author": "Alessandro Giansanti",
+  "license": "GPL v3",
   "keywords": [
+    "angularjs",
+    "grunt-angular-builder",
     "jsdom",
-    "angularjs"
+    "framework"
   ],
   "maintainers": [{
     "name": "Alessandro Giansanti",
     "email": "alessandro.giansanti@gmail.com",
-    "url": "http://github.com/aleclofabbro/"
+    "url": "https://github.com/aleclofabbro"
   }],
   "contributors": [],
   "bugs": {
-    "url": "http://github.com/aleclofabbro/ng-system/issues",
+    "url": "https://github.com/aleclofabbro/ng-system/issues",
     "email": "alessandro.giansanti@gmail.com"
-  },
-  "license": {
-    "type": "MIT",
-    "url": "http://github.com/aleclofabbro/ng-system"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aleclofabbro/ng-system.git"
+    "url": "https://github.com/aleclofabbro/ng-system"
   },
   "dependencies": {
     "grunt": "*",
@@ -35,9 +35,8 @@
   },
   "scripts": {},
   "main": "./lib/ng-system",
-  "readme": "",
   "readmeFilename": "README.md",
   "homepage": "https://github.com/aleclofabbro/ng-system",
-  "_id": "ng-system@0.1.0-pre.1",
+  "_id": "ng-system@0.0.1-pre.1",
   "dist": {}
 }
